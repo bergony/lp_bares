@@ -1,0 +1,88 @@
+256
+256
+32
+122
+200
+-2
+15
+-15
+5
+-5
+3
+100
+Numeric overflow error!
+18
+-17
+-4
+4
+1
+20
+0
+Division by zero!
+8
+230
+Numeric overflow error!
+300
+-43
+28
+0
+8
+12
+-50
+-28
+Integer constant out of range beginning at column (1)!
+Integer constant out of range beginning at column (13)!
+Integer constant out of range beginning at column (4)!
+Integer constant out of range beginning at column (18)!
+Ill formed integer at column (1)!
+Missing <term> at column (4)!
+Missing <term> at column (4)!
+Missing <term> at column (4)!
+Missing <term> at column (5)!
+Missing <term> at column (5)!
+Missing <term> at column (5)!
+Missing <term> at column (8)!
+Missing <term> at column (8)!
+Missing <term> at column (8)!
+Missing <term> at column (8)!
+Missing <term> at column (8)!
+Missing <term> at column (8)!
+Extraneous symbol after valid expression found at column (3)!
+Extraneous symbol after valid expression found at column (2)!
+Extraneous symbol after valid expression found at column (3)!
+Extraneous symbol after valid expression found at column (3)!
+Extraneous symbol after valid expression found at column (3)!
+Ill formed integer at column (1)!
+Ill formed integer at column (1)!
+Ill formed integer at column (1)!
+Extraneous symbol after valid expression found at column (7)!
+Extraneous symbol after valid expression found at column (7)!
+Extraneous symbol after valid expression found at column (7)!
+Extraneous symbol after valid expression found at column (7)!
+Extraneous symbol after valid expression found at column (7)!
+Extraneous symbol after valid expression found at column (11)!
+Extraneous symbol after valid expression found at column (3)!
+299
+Ill formed integer at column (1)!
+Extraneous symbol after valid expression found at column (4)!
+Ill formed integer at column (7)!
+Extraneous symbol after valid expression found at column (9)!
+Missing closing ")" at column (18)!
+Missing closing ")" at column (21)!
+Missing closing ")" at column (32)!
+Missing closing ")" at column (34)!
+Missing closing ")" at column (40)!
+Missing closing ")" at column (46)!
+Missing closing ")" at column (52)!
+-28
+24
+Division by zero!
+Division by zero!
+Division by zero!
+0
+Numeric overflow error!
+Numeric overflow error!
+Numeric overflow error!
+Extraneous symbol after valid expression found at column (2)!
+Unexpected end of expression at column (7)!
+Unexpected end of expression at column (6)!
